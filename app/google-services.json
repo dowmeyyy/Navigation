@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494559223035",
+    "firebase_url": "https://navigation-neart123.firebaseio.com",
+    "project_id": "navigation-neart123",
+    "storage_bucket": "navigation-neart123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494559223035:android:9bd7906eeefb7eda",
+        "android_client_info": {
+          "package_name": "com.example.mikki.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494559223035-gh7oimp71t7e220ikkl7g782fqva2908.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuj0DTXUwmpC0VfkAsm2cHys5nBxDFlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
